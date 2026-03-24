@@ -1,0 +1,58 @@
+{"amount":-100,"comment":null,"playerId":"399110856","currencyCode":"NSP","currency":"NSP","moneyStatus":5}
+
+
+Request URL
+https://agents.ichancy.com/global/api/Player/withdrawFromPlayer
+Request Method
+POST
+Status Code
+200 OK
+Remote Address
+185.162.229.2:443
+Referrer Policy
+strict-origin-when-cross-origin
+
+
+
+:authority
+agents.ichancy.com
+:method
+POST
+:path
+/global/api/Player/withdrawFromPlayer
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+en-US,en;q=0.9
+content-length
+107
+content-type
+application/json
+cookie
+languageCode=ar_IQ; PHPSESSID_3a07edcde6f57a008f3251235df79776a424dd7623e40d4250e37e4f1f15fadf=dbb5ba0ada0479f729cbe8bcdbf73cae; __cf_bm=Z1eUATppfc_nb9kpRGo1ABP8cmufGAIQV3vR39Qs_EY-1774306708-1.0.1.1-s0Kffj.boTMV2Br3biY87r4jNizzuJmSU7u.m74aIe7JafWLv0xMNgO1NGzJR3uPKvxPZc3QU2UcerfPoBRqlrca67ocGFz9ajxtXIgKfyw
+origin
+https://agents.ichancy.com
+priority
+u=1, i
+referer
+https://agents.ichancy.com/dashboard
+sec-ch-ua
+"Chromium";v="146", "Not-A.Brand";v="24", "Google Chrome";v="146"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+
+

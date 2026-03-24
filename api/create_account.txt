@@ -1,0 +1,99 @@
+payload:
+
+{"player":{"email":"bot_test2@test.nsp","password":"12345","parentId":"2697455","login":"test234r55"}}
+
+Request URL
+https://agents.ichancy.com/global/api/Player/registerPlayer
+Request Method
+POST
+Status Code
+200 OK
+Remote Address
+185.162.229.2:443
+Referrer Policy
+strict-origin-when-cross-origin
+
+
+access-control-allow-credentials
+true
+
+access-control-allow-headers
+Content-Type
+access-control-allow-methods
+POST, OPTIONS
+access-control-allow-origin
+https://agents.ichancy.com
+cache-control
+max-age=600
+cf-cache-status
+DYNAMIC
+cf-ray
+9e1098c0aa29981d-PMO
+content-encoding
+gzip
+content-type
+application/json
+date
+Mon, 23 Mar 2026 21:40:49 GMT
+expires
+Mon, 23 Mar 2026 21:50:49 GMT
+pragma
+no-cache
+server
+cloudflare
+set-cookie
+languageCode=ar_IQ; path=/
+set-cookie
+language=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+set-cookie
+__cf_bm=gCrFV5gKfsRHFWkU9KXHaPNE0ok4JCQMfFSfuuE3sok-1774302049-1.0.1.1-BL5V5qkYMECZlr829MXsuFGqxCNVOB7SROh0n8uL8oxEd_UPUCPApVzymt7xtlQh53zznz0x6OF1rPnFWdmOy_FUb3oSxVqDLMKBNGczNKLFolJTNwHTqOEy.Ype6f2L; path=/; expires=Mon, 23-Mar-26 22:10:49 GMT; domain=.ichancy.com; HttpOnly; Secure; SameSite=None
+vary
+Accept-Encoding
+x-powered-by
+PHP/7.4.33
+
+
+
+
+
+
+:authority
+agents.ichancy.com
+:method
+POST
+:path
+/global/api/Player/registerPlayer
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+en-US,en;q=0.9
+content-length
+102
+content-type
+application/json
+cookie
+PHPSESSID_3a07edcde6f57a008f3251235df79776a424dd7623e40d4250e37e4f1f15fadf=5468dd38cce9cdf0daf021d5372f5a74; languageCode=ar_IQ; __cf_bm=kI2qeUO2HfffQtzSR8HO5KXdDVRyzwBhad8xBEMbfgI-1774302028-1.0.1.1-4xn43VXR7rNJKvFOeLXOao9hXxA_6TlAmP4POJDBd7qCOYJMHPeXx0uo3URsfyqlUpBA5sd41ez0xtLvtIAitqdh.VVa9_Wgeq4AVrYWCfdSiNL5wbhl4Hf88mFzz8h_
+origin
+https://agents.ichancy.com
+priority
+u=1, i
+referer
+https://agents.ichancy.com/dashboard
+sec-ch-ua
+"Chromium";v="146", "Not-A.Brand";v="24", "Google Chrome";v="146"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36

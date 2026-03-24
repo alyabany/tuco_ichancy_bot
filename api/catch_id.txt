@@ -1,0 +1,128 @@
+Request URL
+https://agents.ichancy.com/global/api/Player/getPlayersForCurrentAgent
+Request Method
+POST
+Status Code
+200 OK
+Remote Address
+185.162.229.2:443
+Referrer Policy
+strict-origin-when-cross-origin
+
+
+
+:authority
+agents.ichancy.com
+:method
+POST
+:path
+/global/api/Player/getPlayersForCurrentAgent
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+en-US,en;q=0.9
+content-length
+100
+content-type
+application/json
+cookie
+languageCode=ar_IQ; PHPSESSID_3a07edcde6f57a008f3251235df79776a424dd7623e40d4250e37e4f1f15fadf=dbb5ba0ada0479f729cbe8bcdbf73cae; __cf_bm=C44EN6pTrKCUCvT06NbhUJj5NZncNtaF91uu_VWodEY-1774309833-1.0.1.1-KY918SSW7O8b8sap7z_EANE0wssUJwsw3CwRYh.J3pLgBcXLQYkctDSKZCjWgGl.qoYERFxhJnSdPNGocgZxedSyF.aLfWWusqDgM8S2DMklrblbKWvHGXVCfXubL.lH
+origin
+https://agents.ichancy.com
+priority
+u=1, i
+referer
+https://agents.ichancy.com/dashboard
+sec-ch-ua
+"Chromium";v="146", "Not-A.Brand";v="24", "Google Chrome";v="146"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+
+
+هذه الاستجابة
+{
+    "status": true,
+    "html": "",
+    "result": {
+        "records": [
+            {
+                "playerId": "399110856",
+                "affiliateId": "2697455",
+                "username": "bot_test",
+                "registerDate": "2026-03-24 01:24:49",
+                "firstname": "test",
+                "lastname": null,
+                "currency": "NSP",
+                "phoneNumber": null
+            },
+            {
+                "playerId": "399116338",
+                "affiliateId": "2697455",
+                "username": "test234r55",
+                "registerDate": "2026-03-24 01:40:49",
+                "firstname": null,
+                "lastname": null,
+                "currency": "NSP",
+                "phoneNumber": null
+            },
+            {
+                "playerId": "399135366",
+                "affiliateId": "2697455",
+                "username": "TucoBot_hdgfyt6",
+                "registerDate": "2026-03-24 02:36:51",
+                "firstname": null,
+                "lastname": null,
+                "currency": "NSP",
+                "phoneNumber": null
+            },
+            {
+                "playerId": "399139121",
+                "affiliateId": "2697455",
+                "username": "TucoBot_jdhf",
+                "registerDate": "2026-03-24 02:48:16",
+                "firstname": null,
+                "lastname": null,
+                "currency": "NSP",
+                "phoneNumber": null
+            },
+            {
+                "playerId": "399140257",
+                "affiliateId": "2697455",
+                "username": "TucoBot_test7",
+                "registerDate": "2026-03-24 02:51:36",
+                "firstname": null,
+                "lastname": null,
+                "currency": "NSP",
+                "phoneNumber": null
+            },
+            {
+                "playerId": "399159148",
+                "affiliateId": "2697455",
+                "username": "testid1726487",
+                "registerDate": "2026-03-24 03:50:33",
+                "firstname": "a",
+                "lastname": null,
+                "currency": "NSP",
+                "phoneNumber": null
+            }
+        ],
+        "totalRecordsCount": null,
+        "titles": null,
+        "total": null
+    },
+    "notification": []
+}
